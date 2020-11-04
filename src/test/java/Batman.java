@@ -3,5 +3,7 @@ public class Batman {
         System.out.println(" Why so serious!");
 
         // Life is funny
+        // Batman has cool Batmobile
+        // Batman has Robin
     }
 }
